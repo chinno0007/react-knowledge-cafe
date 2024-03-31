@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/xMDknrH/blog1.png",
+      "title": "The Great Adventure",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/mRRJ6BZ/auth-1.png",
+      "posted_date": "2024-03-31",
+      "reading_time": 10,
+      "hashtags": ["adventure", "travel", "exploration"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/PFgBsrx/blog2.png",
+      "title": "Cooking Mastery",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/vPsFkLK/auth-2.png",
+      "posted_date": "2024-03-30",
+      "reading_time": 15,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/dP7W3wX/blog3.png",
+      "title": "The Art of Coding",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/NtnCy5J/auth-3.png",
+      "posted_date": "2024-03-29",
+      "reading_time": 25,
+      "hashtags": ["coding", "programming", "technology"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/Qd3npDd/blog4.png",
+      "title": "Mindfulness Meditation",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/JqtYb3d/auth-4.png",
+      "posted_date": "2024-03-28",
+      "reading_time": 30,
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/YfVzjZT/blog5.png",
+      "title": "Space Exploration",
+      "author": "Michael Wilson",
+      "author_img": "https://i.ibb.co/Vm9Hwtp/auth-5.png",
+      "posted_date": "2024-03-27",
+      "reading_time": 20,
+      "hashtags": ["space", "astronomy", "science"]
+    }
+  ]
+  
